@@ -21,7 +21,7 @@
         
         git push 
         
-# 5. Вмержить ветку Bag Reports в Main git merge Bag
+# 5. Вмержить ветку Bag Reports в Main
     
         git merge Bag_Reports
     
