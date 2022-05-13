@@ -5,7 +5,7 @@
 *- Bag Reports
 *- SQL
 *- Charles
-**- Mobile testing
+*- Mobile testing
 
        git branch "название ветки"
 
