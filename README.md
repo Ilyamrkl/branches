@@ -7,7 +7,7 @@
 # - Charles
 # - Mobile testing
 
-  ```git branch "название ветки"```
+  git branch "название ветки"
 
 # 2. Запушить все ветки на внешний репозиторий git push -u --all origin
 # 3. В ветке Bag Reports сделать текстовый документ со структурой баг репорта vim structure.txt
