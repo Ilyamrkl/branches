@@ -1,10 +1,16 @@
 # 1. На локальном репозитории сделать ветки для:
 *- Postman 
+
 *- Jmeter
+
 *- CheckLists
+
 *- Bag Reports
+
 *- SQL
+
 *- Charles
+
 *- Mobile testing
 
        git branch "название ветки"
