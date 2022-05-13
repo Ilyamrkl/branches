@@ -36,10 +36,10 @@
         
         git add git commit -m git push
         
-# 9. На внешнем репозитории сделать Pull Request ветки CheckLists в main перехожу на github /кнопка Pull Request / create Pull Request  / merge pull request
-
+# 9. На внешнем репозитории сделать Pull Request ветки CheckLists в main 
         
         перехожу на github /кнопка Pull Request / create Pull Request  / merge pull request
+        
 # 10. Синхронизировать Внешнюю и Локальную ветки Main 
 
         git fetch 
