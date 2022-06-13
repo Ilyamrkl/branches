@@ -1,5 +1,5 @@
 # 1. На локальном репозитории сделать ветки для:
-- Postman
+- Postmаn
 - Jmeter
 - CheckLists
 - Bag Reports
